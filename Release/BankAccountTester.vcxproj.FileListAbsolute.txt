@@ -1,0 +1,4 @@
+C:\Users\jeffc\Documents\VS Projects\BankAccountTester\Release\BankAccountTester.vcxproj.CopyComplete
+C:\Users\jeffc\Documents\VS Projects\BankAccountTester\Release\ATMControllerTester.exe
+C:\Users\jeffc\Documents\VS Projects\BankAccountTester\Release\gtest.pdb
+C:\Users\jeffc\Documents\VS Projects\BankAccountTester\Release\gtest_main.pdb
